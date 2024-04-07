@@ -1,16 +1,10 @@
-# lubbb2
+# Лабораторная работа №2 
+## Экран без номеров 
+![image](https://github.com/cyph3r322/Flutter_lub1/assets/144318326/3c91dd38-64f9-4c6e-9536-2dad0c065ec5)
 
-A new Flutter project.
+![image](https://github.com/cyph3r322/Flutter_lub1/assets/144318326/4834b005-9888-4df4-9bd0-f5871a561624)
 
-## Getting Started
+## Экран с номерами
+![image](https://github.com/cyph3r322/Flutter_lub1/assets/144318326/d233f433-02ef-4aa8-8e9b-6e74fbaf85ad)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/cyph3r322/Flutter_lub1/assets/144318326/2c61c930-4549-4be3-b261-56bf0af23279)
